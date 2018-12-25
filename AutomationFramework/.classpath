@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-9">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="H:/Java Projects/selenium 3.9.1/selenium-server-standalone-3.9.1.jar"/>
+	<classpathentry kind="lib" path="H:/Java Projects/selenium 3.9.1/selenium-server-3.9.1/selenium-3.9.1-nodeps.jar"/>
+	<classpathentry kind="lib" path="H:/Java Projects/selenium 3.9.1/selenium-server-3.9.1/selenium-3.9.1-nodeps-sources.jar"/>
+	<classpathentry kind="lib" path="H:/Java Projects/sikulixapi.jar"/>
+	<classpathentry kind="lib" path="H:/Java Projects/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="H:/Java Projects/poi-3.7/poi-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="H:/Java Projects/poi-3.7/poi-examples-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="H:/Java Projects/poi-3.7/poi-ooxml-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="H:/Java Projects/poi-3.7/poi-ooxml-schemas-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="H:/Java Projects/poi-3.7/poi-scratchpad-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="H:/Java Projects/poi-3.7/ooxml-lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="H:/Java Projects/poi-3.7/ooxml-lib/geronimo-stax-api_1.0_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="H:/Java Projects/poi-3.7/ooxml-lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="H:/Java Projects/poi-3.7/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="H:/Java Projects/poi-3.7/lib/log4j-1.2.13.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
