@@ -1,0 +1,17 @@
+*{padding:0px; margin:0px;}
+b{font-family:Segoe UI;color: #45518D;}
+
+#form{border-radius:10px;width: 400px;margin-left: 450px;margin-top: 25px;padding:20px;height: 544px;background-color: #F0EEF2;}
+
+.header{margin-left: 40px;font-family:Segoe UI;color: #45518D;}
+
+.input{border-radius:5px;width: 300px;color: #45518D;font-weight:450;margin-left: 40px;margin-top:10px;font-family:Segoe UI; font-size:16px; padding:5px;}
+
+.input_country{border-radius:5px;width: 313px;color: #45518D;font-weight:450;margin-left: 40px;margin-top:10px;font-family:Segoe UI; font-size:16px; padding:5px;}
+
+.btn_input_submit{width: 150px;color:#000;font-weight:450;margin-left: 40px;margin-top:15px;font-family:Segoe UI; font-size:16px; padding:5px;}
+.btn_input_reset{width: 150px;color:#000;font-weight:450;margin-left: 10px;margin-top:15px;font-family:Segoe UI; font-size:16px; padding:5px;}
+
+.input_radio_male{border: 1px solid red;width: 20px;color:#000;margin-left: 37px;margin-top:15px;padding:5px;}
+.input_radio_female{width: 20px;color:#000;margin-left: 20px;margin-top:15px;padding:5px;}
+.input_radio_other{width: 20px;color:#000;margin-left: 20px;margin-top:15px;padding:5px;}
